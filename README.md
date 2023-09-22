@@ -36,7 +36,7 @@ order they arrive in the disk queue.
 Example: Given the following queue -- 95, 180, 34, 119, 11, 123, 62, 64 with the Read-write head
 initially at the track 50 and the tail track being at 199.
 PROGRAM:
-```
+
 #include <stdio.h>
 #include <stdlib.h>
 int main()
@@ -61,7 +61,8 @@ return 0;
 
 # OUTPUT:
 
-![image](https://github.com/nivetharajaa/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/120543388/c5def0ef-7fd0-4c5a-adee-fef4900b0d74)
+![image](https://github.com/nivetharajaa/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/120543388/67755e14-033a-47ac-9cd3-6548acd6136e)
+
 
 
 RESULT: First-Come-First-Serve Scheduling is implemented successfully.
