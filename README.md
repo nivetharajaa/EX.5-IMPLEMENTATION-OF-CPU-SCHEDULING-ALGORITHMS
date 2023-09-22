@@ -59,8 +59,9 @@ return 0;
 }
 ```
 
-OUTPUT:
-![image](https://github.com/nivetharajaa/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/120543388/2d9d7274-4fda-4cd8-bb61-03f6482f5c0a)
+# OUTPUT:
+
+![image](https://github.com/nivetharajaa/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/120543388/c5def0ef-7fd0-4c5a-adee-fef4900b0d74)
 
 
 RESULT: First-Come-First-Serve Scheduling is implemented successfully.
