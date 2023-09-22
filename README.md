@@ -17,7 +17,7 @@ To implement First-Come-First-Serve (FCFS) Scheduling
     Stop the process
 
 # PROGRAM:
-```
+
 EX. 5a) DISK SCHEDULING
 FIRST COME FIRST SERVEDate:
 AIM:
@@ -57,7 +57,7 @@ initial=RQ[i];
 printf("Total head moment is %d",TotalHeadMoment);
 return 0;
 }
-```
+
 
 # OUTPUT:
 
