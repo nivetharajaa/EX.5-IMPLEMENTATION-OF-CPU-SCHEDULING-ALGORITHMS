@@ -1,4 +1,4 @@
-<img width="305" alt="image" src="https://github.com/nivetharajaa/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/120543388/7fdaadb8-816f-43fa-92fa-1d28695ea9e4"># EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS
+# EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS
 
 ## AIM:
 To implement First-Come-First-Serve (FCFS) Scheduling
@@ -144,8 +144,7 @@ printf("\nAverage turn around time is %5.2f",att);
 }
 ```
 ## OUTPUT:
-<img width="372" alt="image" src="https://github.com/nivetharajaa/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/120543388/9e74f4e0-6c51-4f3e-af79-76d40df5c17c">
-
+<img width="415" alt="image" src="https://github.com/nivetharajaa/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/120543388/34b4e116-c694-4796-a8c0-406c6dd7ca2c">
 
 ## RESULT: Shortest Job First (SJF) preemptive scheduling is implemented successfully.
 
@@ -255,7 +254,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-<img width="242" alt="image" src="https://github.com/nivetharajaa/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/120543388/4d2ad704-47b3-4cfa-8769-632cd55f98a0">
+<img width="335" alt="image" src="https://github.com/nivetharajaa/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/120543388/5539eeb1-e0e3-4fb4-a86d-c943733596a1">
 
 
 ## RESULT: Shortest Job First (SJF) Non-preemptive scheduling is implemented successfully.
@@ -360,7 +359,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-<img width="330" alt="image" src="https://github.com/nivetharajaa/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/120543388/f2ce393b-0fd5-4845-ace3-b0a492131878">
+<img width="335" alt="image" src="https://github.com/nivetharajaa/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/120543388/3835464f-631a-44e0-9c3c-56cc20945871">
+
 
 
 ## RESULT: Round Robin (RR) Scheduling is implemented successfully.
@@ -498,8 +498,7 @@ printf("\nAvg turn around time is %5.2f",atat);
 }
 ```
 ## OUTPUT:
-<img width="221" alt="image" src="https://github.com/nivetharajaa/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/120543388/0736164a-add7-4f04-abda-eb11bdbe92d4">
-
+<img width="335" alt="image" src="https://github.com/nivetharajaa/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/120543388/bb2f5a7d-ff46-42b8-ad95-1c0b7ea34a57">
 
 
 ## RESULT: Priority Preemptive scheduling is implemented successfully.
@@ -649,9 +648,9 @@ int main() {
 
   return 0;
 }
-
+```
 ## OUTPUT:
-<img width="305" alt="image" src="https://github.com/nivetharajaa/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/120543388/b0b0031e-c729-40fb-9656-5883d3644120">
+<img width="335" alt="image" src="https://github.com/nivetharajaa/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/120543388/8aa32346-d2f3-4f4b-995d-289e43cb91f2">
 
 
 ## RESULT: Priority Non-preemptive scheduling is implemented successfully.
