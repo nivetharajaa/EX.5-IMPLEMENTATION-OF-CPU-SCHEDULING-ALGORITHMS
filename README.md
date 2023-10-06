@@ -146,7 +146,8 @@ printf("\nAverage turn around time is %5.2f",att);
 ## OUTPUT:
 <img width="415" alt="image" src="https://github.com/nivetharajaa/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/120543388/34b4e116-c694-4796-a8c0-406c6dd7ca2c">
 
-## RESULT: Shortest Job First (SJF) preemptive scheduling is implemented successfully.
+## RESULT: 
+Shortest Job First (SJF) preemptive scheduling is implemented successfully.
 
 
 ## AIM: To implement Shortest Job First (SJF) Non-Preemptive Scheduling
@@ -359,7 +360,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-<img width="335" alt="image" src="https://github.com/nivetharajaa/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/120543388/3835464f-631a-44e0-9c3c-56cc20945871">
+
+![image](https://github.com/nivetharajaa/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/120543388/9d85d382-3406-4731-a107-e9d3ae2af900)
 
 
 
@@ -498,10 +500,11 @@ printf("\nAvg turn around time is %5.2f",atat);
 }
 ```
 ## OUTPUT:
-<img width="335" alt="image" src="https://github.com/nivetharajaa/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/120543388/bb2f5a7d-ff46-42b8-ad95-1c0b7ea34a57">
+![image](https://github.com/nivetharajaa/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/120543388/8509a744-f657-4db8-925f-f2b97ad8050a)
 
 
-## RESULT: Priority Preemptive scheduling is implemented successfully.
+## RESULT: 
+Priority Preemptive scheduling is implemented successfully.
 
 
 ## AIM: To implement Priority Non-Preemptive Scheduling
@@ -650,8 +653,9 @@ int main() {
 }
 ```
 ## OUTPUT:
-<img width="335" alt="image" src="https://github.com/nivetharajaa/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/120543388/8aa32346-d2f3-4f4b-995d-289e43cb91f2">
+![image](https://github.com/nivetharajaa/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/120543388/c351ffaf-3484-486c-b197-bf73a1b1510f)
 
 
-## RESULT: Priority Non-preemptive scheduling is implemented successfully.
+## RESULT:
+Priority Non-preemptive scheduling is implemented successfully.
 
